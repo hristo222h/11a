@@ -1,0 +1,8 @@
+C:\Users\hrist\Desktop\New folder\11a\Stipendii\bin\Debug\Stipendii.exe.config
+C:\Users\hrist\Desktop\New folder\11a\Stipendii\bin\Debug\Stipendii.exe
+C:\Users\hrist\Desktop\New folder\11a\Stipendii\bin\Debug\Stipendii.pdb
+C:\Users\hrist\Desktop\New folder\11a\Stipendii\obj\Debug\Stipendii.csproj.AssemblyReference.cache
+C:\Users\hrist\Desktop\New folder\11a\Stipendii\obj\Debug\Stipendii.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\New folder\11a\Stipendii\obj\Debug\Stipendii.exe
+C:\Users\hrist\Desktop\New folder\11a\Stipendii\obj\Debug\Stipendii.pdb
+C:\Users\hrist\Desktop\New folder\11a\Stipendii\obj\Debug\Stipendii.exe.config
