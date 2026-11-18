@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\hrist\\Desktop\\New folder\\11a\\Stipendii\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14F7EFE9-CF60-4EAE-877E-1C647B2D75C1}|Stipendii.csproj|c:\\users\\hrist\\desktop\\new folder\\11a\\stipendii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14F7EFE9-CF60-4EAE-877E-1C647B2D75C1}|Stipendii.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14F7EFE9-CF60-4EAE-877E-1C647B2D75C1}|Stipendii.csproj|C:\\Users\\hrist\\Desktop\\New folder\\11a\\Stipendii\\stipendia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F7EFE9-CF60-4EAE-877E-1C647B2D75C1}|Stipendii.csproj|solutionrelative:stipendia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14F7EFE9-CF60-4EAE-877E-1C647B2D75C1}|Stipendii.csproj|c:\\users\\hrist\\desktop\\new folder\\11a\\stipendii\\stipendia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14F7EFE9-CF60-4EAE-877E-1C647B2D75C1}|Stipendii.csproj|solutionrelative:stipendia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14F7EFE9-CF60-4EAE-877E-1C647B2D75C1}|Stipendii.csproj|c:\\users\\hrist\\desktop\\new folder\\11a\\stipendii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F7EFE9-CF60-4EAE-877E-1C647B2D75C1}|Stipendii.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Stipendia.cs",
               "DocumentMoniker": "C:\\Users\\hrist\\Desktop\\New folder\\11a\\Stipendii\\Stipendia.cs",
               "RelativeDocumentMoniker": "Stipendia.cs",
               "ToolTip": "C:\\Users\\hrist\\Desktop\\New folder\\11a\\Stipendii\\Stipendia.cs",
               "RelativeToolTip": "Stipendia.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwD8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-16T20:54:09.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hrist\\Desktop\\New folder\\11a\\Stipendii\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\hrist\\Desktop\\New folder\\11a\\Stipendii\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAYwDUAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwDUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-16T20:53:22.519Z",
               "EditorCaption": ""

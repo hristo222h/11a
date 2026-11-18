@@ -8,9 +8,26 @@ namespace Stipendii
 {
     public class Stipendia
     {
-        public string Ime { get; set; }
-        public string Vid { get; set; }
-        public double Razmer { get; set; }
+        private string ime;
+        public string Ime
+        {
+            get { return ime; }
+            set { ime = value; }
+        }
+
+        private string vid;
+        public string Vid
+        {
+            get { return vid; }
+            set { vid = value; }
+        }
+
+        private double razmer;
+        public double Razmer
+        {
+            get { return razmer; }
+            set { razmer = value; }
+        }
 
         private double uspeh;
         public double Uspeh
@@ -20,13 +37,24 @@ namespace Stipendii
             {
                 if (value < 2 || value > 6)
                     throw new Exception("Nevaliden uspeh");
+
                 uspeh = value;
             }
         }
 
-        public bool Nakazania { get; set; }
+        private bool nakazania;
+        public bool Nakazania
+        {
+            get { return nakazania; }
+            set { nakazania = value; }
+        }
 
-        public double Dohod { get; set; }
+        private double dohod;
+        public double Dohod
+        {
+            get { return dohod; }
+            set { dohod = value; }
+        }
 
         public Stipendia(string ime, string vid, double razmer, double uspeh, bool nakazania, double dohod)
         {
